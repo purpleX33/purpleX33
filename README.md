@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purpleX33
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning javascript..
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning data manipulation with pandas..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at pratik3.3k@gmail.com
 
