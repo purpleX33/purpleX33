@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @purpleX33
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning data manipulation with pandas..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Data engineer by proffesion and currently studing Masters of Data Science in Swinburne University of technology.
 - 📫 How to reach me email at pratik3.3k@gmail.com
 
 <!---
